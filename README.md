@@ -158,8 +158,160 @@ R) 5.84 [V]
 
 - CAPÍTULO 12 (EJERCICIOS IMPARES)
 
+1. (a) Encuentre la capacitancia cuando Q  50 mC y V  10 V.
+
+![image](https://user-images.githubusercontent.com/116655812/210624311-7950cb5d-a406-4087-b5cb-356cc7b254be.png)
+
+(b) Determine la carga cuando C  0.001 mF y V  1 kV. 
+
+![image](https://user-images.githubusercontent.com/116655812/210624345-84a2f67d-6a64-4cdc-b600-bc2f1feb6c9c.png)
+
+(c) Determine el voltaje cuando Q  2 mC y C  200 mF.
+
+![image](https://user-images.githubusercontent.com/116655812/210624378-ef26db59-91c4-458e-aad8-fad429801fe0.png)
+
+3. Transforme los siguientes valores de picofarads a microfarads:
+
+![image](https://user-images.githubusercontent.com/116655812/210624413-519b8ee8-dcbe-4d70-bf54-e56a4906502e.png)
+
+5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+
+![image](https://user-images.githubusercontent.com/116655812/210624449-ac259446-8cc2-4c03-a4a8-3a8de9b62718.png)
+
+9. Un capacitor de aire tiene un área de placas total de 0.05 m2 . La separación entre las placas es de 4.5 104 m. Calcule la capacitancia.
+
+![image](https://user-images.githubusercontent.com/116655812/210624490-e0091205-960d-4415-9f66-9b715442d618.png)
+
+11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er  2.5) de 8 105 de espesor. ¿Cuál es la capacitancia de su capacitor?
+
+![image](https://user-images.githubusercontent.com/116655812/210624529-a406e45d-1279-4b18-94fd-4d6a0e83065b.png)
+
+15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
+
+La cerámica tiene la constante dieléctrica mas alta 
+
+17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
+
+Condensadores de cerámica y condensadores de poliéster 
+Un condensador electrolítico es un dispositivo electrónico, normalmente con forma cilíndrica, que es capaz de acumular energía en su interior cuando se conecta a una fuente de tensión. El condensador está formado por dos placas metálicas separadas por un elemento dieléctrico.
 
 
+19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68.
+
+![image](https://user-images.githubusercontent.com/116655812/210624621-43a56cc3-0ff0-4725-ac86-348eac18cd7a.png)
+
+a)0.022 microfarads
+
+b) 0.047 microfarads
+
+c) 0.001 microfarads
+
+d) 220 picofarads
+
+
+21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69. 
+
+![image](https://user-images.githubusercontent.com/116655812/210624650-0824c2f3-fa1c-4b67-b10c-cdfdee752e93.png)
+
+
+![image](https://user-images.githubusercontent.com/116655812/210624666-3d21000f-6cd7-4933-87b9-aac3183c4975.png)
+
+
+23. Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
+
+![image](https://user-images.githubusercontent.com/116655812/210624713-fd02726b-5cbe-4595-9cc1-d59554345482.png)
+
+25. Determine la CT para cada circuito de la figura 12-71.
+
+![image](https://user-images.githubusercontent.com/116655812/210624735-72431f31-a668-4600-8dae-14b4c90285a0.png)
+
+![image](https://user-images.githubusercontent.com/116655812/210624742-de654ec9-01c1-45a3-a250-79864491a440.png)
+
+27. Determine la CT para cada circuito de la figura 12-72.
+
+![image](https://user-images.githubusercontent.com/116655812/210624774-1bd36ac6-a4fa-41d2-9cfc-2949f57c4854.png)
+
+![image](https://user-images.githubusercontent.com/116655812/210624833-d05b1702-3711-4d4d-aec8-5598a3c610c2.png)
+
+*29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados. 
+
+![image](https://user-images.githubusercontent.com/116655812/210624855-0cd9ee1f-89cd-43d6-b9f8-68dc744aed75.png)
+
+(a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente? 
+
+![image](https://user-images.githubusercontent.com/116655812/210624916-a586484f-34f5-4b0f-b6a9-9ca4cbd279d8.png)
+
+(b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
+
+![image](https://user-images.githubusercontent.com/116655812/210624954-2d051f94-354a-4141-ba17-5b379acc5580.png)
+
+31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
+
+![image](https://user-images.githubusercontent.com/116655812/210625024-7b30a54d-2e0f-42ff-acba-6045c827b73f.png)
+
+33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
+
+
+![image](https://user-images.githubusercontent.com/116655812/210625061-712fd6c4-3073-4a6f-ae79-6c4313447d81.png)
+
+![image](https://user-images.githubusercontent.com/116655812/210625099-cdfaaa06-577c-4314-a214-0fdf60aa448f.png)
+
+35. Repita el problema 33 con los siguientes tiempos:
+
+![image](https://user-images.githubusercontent.com/116655812/210625135-0474520c-ef96-4585-90ac-f16d926bf55e.png)
+
+37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
+
+![image](https://user-images.githubusercontent.com/116655812/210625163-33f5fd12-1feb-4c93-a5e8-d9e6f99bd625.png)
+
+![image](https://user-images.githubusercontent.com/116655812/210625180-ad7d4ba7-7bb0-4c56-b7bd-9ece0dbe79ec.png)
+
+
+39. Determine la constante de tiempo para el circuito de la figura 12-77.
+
+![image](https://user-images.githubusercontent.com/116655812/210625203-1f3f9aa9-59a3-4c08-921d-f567bc1816bd.png)
+
+* 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor. 
+
+(b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
+
+![image](https://user-images.githubusercontent.com/116655812/210625254-b234a2c1-1741-4787-880e-bd598a0f9d71.png)
+
+![image](https://user-images.githubusercontent.com/116655812/210625264-8cc387fa-edbf-47cd-b820-b227974510f6.png)
+
+![image](https://user-images.githubusercontent.com/116655812/210625279-36bea2c8-255a-4275-b63e-a84bec5332a8.png)
+
+
+43. En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso
+
+![image](https://user-images.githubusercontent.com/116655812/210625310-6e87f066-6f11-4fe6-800b-1b896f3a35f7.png)
+
+![image](https://user-images.githubusercontent.com/116655812/210625324-a596b86c-f18a-4438-ac5c-581e0d8fa821.png)
+
+45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
+
+![image](https://user-images.githubusercontent.com/116655812/210625383-7b68ffba-c60b-43d7-8b85-c25dc1c6a218.png)
+
+47. Determine la potencia verdadera y la potencia reactiva en el problema 46
+
+Para un capacitor ideal, la potencia verdadera siempre es cero y para calucular la potencia reactiva se calcula primero la reactancia
+
+![image](https://user-images.githubusercontent.com/116655812/210625443-65b1b87a-a3ca-41d3-ace1-21ebabe34afa.png)
+
+49. Determine el valor de C1 en la figura 12-82.
+
+![image](https://user-images.githubusercontent.com/116655812/210625469-97770555-5f30-4497-88f1-90316d24eda8.png)
+
+![image](https://user-images.githubusercontent.com/116655812/210625583-d5b7c353-50d9-41a2-946a-4d77d5433660.png)
+
+51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+
+
+El capacitor conectado paralelamente permite que el voltaje de fluctuación permita dar una corriente directa a la resistencia de carga, por lo que, al añadir uno más, se está proporcionando una corriente directa más pura.
+
+53. En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
+
+![image](https://user-images.githubusercontent.com/116655812/210625681-7cb0f54e-ee7a-4381-97b7-770f06e5137c.png)
 
 
 # 4. VIDEO 
