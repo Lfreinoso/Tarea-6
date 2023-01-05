@@ -13,11 +13,22 @@ NRC: 10067
 # 1. OBJETIVOS
  OBJETIVO GENERAL
   
-
+Aprender, conceptos fundamentales sobre el tema Carga descarga del capacitor y circuitos formadores de onda simples , Magnetismo y circuitos magnéticos , asi mismo poner en practica estos conceptos a partir de la realización de problemas y ejercicios planteados de acuerdo al libro
 
  OBJETIVOS ESPECÍFICOS
  
+- Entedner las características que un circuito alterno posee.
 
+- Reconocer los diferentes tipos de ondas.
+
+- Conocer el volatje y corriente que se presente en un circuito alterno.
+
+- Entender las características de los capacitadores.
+
+- Realizar los ejercicios de ambos capítulos para tener mejor conocimiento de los temas.
+
+
+3. MARCO TEÓRICO
 
 
 # 2. MARCO TEÓRICO 
@@ -29,6 +40,7 @@ NRC: 10067
 
 - CAPÍTULO 12
 
+![image](https://user-images.githubusercontent.com/116655812/210678006-0a7ddf78-1dee-4c1d-8182-f7fae868f879.png)
 
 
 
@@ -320,6 +332,11 @@ El capacitor conectado paralelamente permite que el voltaje de fluctuación perm
 
 # 5. CONCLUSIONES 
 
+Despues de haber analizado la teoria y practica de los temas ya mencionados pudimos llegar a la conclusion de:
+
+-Los transitorios ocurren en los circuitos capacitivos y en los inductivos. En los primeros ocurren debido a que el voltaje en el capacitor no puede cambiar de manera instantánea; en los segundos ocurren debido a que la corriente del inductor no puede cambiar en forma instantánea.
+
+-El magnetismo se refiere a la fuerza que actúa entre los imanes y los materiales magnéticos. Por ejemplo, se sabe que los imanes atraen partículas de hierro, causan deflexión en las agujas de las brújulas, atraen o repelen a otros imanes, etc. Esta fuerza actúa a distancia y sin la necesidad de que haya contacto físico. La región donde se siente la fuerza se llama el “campo del imán” o simplemente su campo magnético. Entonces, un campo magnético es un campo de fuerza.
 
 
 # 6.BIBLIOGRAFÍA
