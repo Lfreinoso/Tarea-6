@@ -35,6 +35,7 @@ Aprender, conceptos fundamentales sobre el tema Carga descarga del capacitor y c
 
 - CAPÍTULO 11
 
+![image](https://user-images.githubusercontent.com/116655812/210693894-77ee77a2-04d1-4cab-98b0-fb8baac4d5c5.png)
 
 
 
