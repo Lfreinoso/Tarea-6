@@ -329,6 +329,7 @@ El capacitor conectado paralelamente permite que el voltaje de fluctuación perm
 
 # 4. VIDEO 
 
+https://youtu.be/uwAgarlBWWI
 
 
 # 5. CONCLUSIONES 
